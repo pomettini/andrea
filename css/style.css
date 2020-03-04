@@ -518,11 +518,11 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
   padding-top: 3em;
 }
 
-.about-desc h2 {
+.about-desc h1 {
   line-height: 1.3;
 }
 
-.about-desc h2 span {
+.about-desc h1 span {
   display: block;
   margin-bottom: 0;
   color: #000;
